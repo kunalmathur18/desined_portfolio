@@ -283,6 +283,20 @@ span{
     color: var(--second-bg-color);
 
 }
+
+.tab-contents{
+    margin-top: 5rem;
+    background: var(--bg-color);
+    justify-content: center;
+}
+.tab-contents ul{
+    text-decoration-color: var(--text-color);
+    font-size: 3.2rem;
+    align-items: center;
+
+   
+   
+}
 .Contact h2{
     margin-bottom: 3rem;
 
